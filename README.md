@@ -22,7 +22,7 @@ What percentage of shark attacks result in fatalities?
 3. Attack Types:
 What are the most common types of shark attacks (e.g., provoked, unprovoked, boating-related)?
 
-4. Activity Analysis
+4. Activity Analysis:
 What are the top 10 activities with the highest number of recorded shark attacks?
 Is there a correlation between the fatality rate and factors like the location of the attack,
 the type of attack involved?
@@ -95,3 +95,8 @@ In conclusion, the analysis reveals the United States and Australia are the coun
 However, it's evident that human activities continue to occur in areas with a potential shark presence, such as fishing, swimming, and surfing. This suggests a need for heightened awareness and safety measures.
 
 When examining the correlation between the nature of activities and shark attack fatalities, a noteworthy trend emerges. Those engaged in water sports exhibit a higher likelihood of survival compared to individuals involved in activities like swimming, potentially reflecting their greater experience and preparedness in dealing with potential encounters.
+
+
+# Presentation link
+
+https://www.canva.com/design/DAFyF9xGIyo/CkUl5quhvsuoUVUTAOqRUQ/edit
