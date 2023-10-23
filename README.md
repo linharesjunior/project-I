@@ -90,3 +90,8 @@ In the Temporal Analysis, two key investigations were conducted. First, the seas
 
 # Conclusion
 
+In conclusion, the analysis reveals the United States and Australia are the countries with the highest number of recorded shark attacks, highlighting their prevalence over the years. Moreover, despite the substantial reports of shark encounters, there's a promising trend: a decline in shark attack fatalities over time.
+
+However, it's evident that human activities continue to occur in areas with a potential shark presence, such as fishing, swimming, and surfing. This suggests a need for heightened awareness and safety measures.
+
+When examining the correlation between the nature of activities and shark attack fatalities, a noteworthy trend emerges. Those engaged in water sports exhibit a higher likelihood of survival compared to individuals involved in activities like swimming, potentially reflecting their greater experience and preparedness in dealing with potential encounters.
